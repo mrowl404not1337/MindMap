@@ -10,8 +10,8 @@ per-target rules.
 ## The smart part: referral attribution
 
 Modern targets fan out across many backend domains that don't share a name with
-the main site (e.g. BingX uses `we-api.com`, `qq-os.com`, `acc-de.com`,
-`bb-os.com`…). The extension reads each request's **`Origin` / `Referer`** to
+the main site (e.g. xxx uses `*****.com`, `****.com`, `a****.com`,
+`****.com`…). The extension reads each request's **`Origin` / `Referer`** to
 work out where it *came from*:
 
 - It auto-detects each **target** = a registrable domain that you actually
