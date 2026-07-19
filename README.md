@@ -1,5 +1,8 @@
 # Target Mind Map — Burp Suite extension
 
+<img width="1919" height="1099" alt="image" src="https://github.com/user-attachments/assets/5ddb17ff-aa8f-4e67-a266-d99fcd047d47" />
+
+
 A radial, **referral-aware** mind map of any target. Works on any site with no
 per-target rules.
 
