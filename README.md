@@ -59,7 +59,7 @@ work out where it *came from*:
 - **Filter** box: type to dim non-matches (highlights matching endpoints); Enter
   jumps to the first match.
 
-## Sidebar — every request (PS4-style list)
+## Sidebar — every request
 
 The left panel lists all captured requests as a tree: **target → domain →
 endpoint**, with coloured method chips, status, and `×N` counts. Click any entry
