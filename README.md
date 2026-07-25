@@ -1,4 +1,4 @@
-# Target Mind Map — Burp Suite extension
+# Target Mind Map  Burp Suite extension
 
 <img width="1913" height="1106" alt="image" src="https://github.com/user-attachments/assets/b67b1a5c-f2d8-4280-b188-9a5c98a14e80" />
 
