@@ -32,7 +32,7 @@ work out where it *came from*:
 2. Burp → **Extender → Options → Python Environment** → select that jar.
 3. Burp → **Extender → Extensions → Add** → type **Python** → `MindMap.py`.
 
-## Capture (reads everything)
+### Capture (reads everything)
 
 - **Auto-capture** (toolbar, on by default): pulls traffic from **all Burp
   tools**, not just Proxy.
